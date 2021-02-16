@@ -4,7 +4,8 @@ html {
 }
 
 p {
-  margin: 20 70 0 20;
+  margin: 20px 100px 0px 20px;
+  font-family: monospace;
 }
 
 /* Mobile
